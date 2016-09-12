@@ -6,7 +6,8 @@
  and then saved on a configuration file in the local file system so it will be available after the reboot
  A LED on Pin 13 will inform about the presence of unread messages
  
- This project uses code by Stefano Guglielmetti and Massimo Ronca 2013
+ This project heavily uses code by Stefano Guglielmetti and Massimo Ronca 2013
+ That repo can be found here: https://github.com/amicojeko/Arduino-Yun-Gmail-Check
  
  Based on the ShellCommands Example by Cristian Maglie and Tom Igoe
  and on the LedControl library examples from http://playground.arduino.cc/Main/LedControl
